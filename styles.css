@@ -4,3 +4,9 @@
     border-radius: 30px;
 	cursor: pointer;
 }
+#btn{
+	background-color:black;
+	color:white;
+	border-radius:5px;
+	cursor:pointer;
+}
